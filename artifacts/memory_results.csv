@@ -1,0 +1,5 @@
+Method,Predicted State (MiB),Measured State (MiB),Peak GPU (MiB)
+Full Fine-Tuning,2052.54,2052.54,2885.92
+LoRA Rank 1,514.01,514.01,1219.27
+LoRA Rank 4,516.65,516.65,1221.37
+LoRA Rank 16,527.2,527.2,1230.15
