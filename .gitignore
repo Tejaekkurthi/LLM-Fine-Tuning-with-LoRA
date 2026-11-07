@@ -1,0 +1,31 @@
+
+# Python environments
+.venv/
+venv/
+env/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model weights and checkpoints
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+checkpoints/
+saved_models/
+
+# Large output files
+*.parquet
+*.arrow
+*.pkl
+
+# Operating system files
+.DS_Store
+Thumbs.db
